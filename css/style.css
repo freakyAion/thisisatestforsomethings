@@ -6,5 +6,11 @@
 }
 
 .grid_part{
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: darkred;
+    color: white;
+    margin: 10  px;
 }
